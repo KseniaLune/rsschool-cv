@@ -9,11 +9,13 @@
 	6. Easy-going
 	7. Sly
 4. *Nothing*, but i'm *learning*
-5.    function multiply(a, b){
+5.    ```    
+function multiply(a, b){
   return a * b
-}    
-6. -
-7. -
+}
+    ```    
+6. no
+7. no
 8. Level of English: __B1__
 
  
