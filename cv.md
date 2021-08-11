@@ -1,20 +1,21 @@
-1. ###Kseniia Oleinik
-2.Telegram:@JuniorNerevar
-3.About me:
- 1.Broad-minded
- 2.Eager
- 3.Adaptable
- 4.Talkative
- 5.(a)Little funny
- 6.Easy-going
- 7.Sly
-4.*Nothing*, but i'm *learning*
-5.```function multiply(a, b){
+1. ### Kseniia Oleinik
+2. Telegram:@JuniorNerevar
+3. About me:
+ 1. Broad-minded
+ 2. Eager
+ 3. Adaptable
+ 4. Talkative
+ 5. (a)Little funny
+ 6. Easy-going
+ 7. Sly
+4. *Nothing*, but i'm *learning*
+5. ```javascript
+function multiply(a, b){
   return a * b
 }
 ```
-6.-
-7.-
-8.Level of English: **B1+**
+6. -
+7. -
+8. Level of English: **B1**
 
  
