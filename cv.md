@@ -8,7 +8,13 @@
 	5. (a)Little funny
 	6. Easy-going
 	7. Sly
-4. *Nothing*, but i'm *learning*
-8. Level of English: __B1__
+4. Skills: *Nothing*, but i'm *learning*
+5. Code: 
+```javascript
+if (aSubmarinIsYellow){
+  return true
+}
+```
+6. Level of English: __B1__
 
  
